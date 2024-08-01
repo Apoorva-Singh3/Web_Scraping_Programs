@@ -4,5 +4,5 @@
 Here's a comparison table summarizing the strengths and weaknesses of each method:
 | Methods | Strengths | Weaknesses |
 |---------|-----------|------------|
-|Requests 
-+ BeautifulSoup
+|Requests + BeautifulSoup | Simple and easy to use | Limited JavaScript support |
+
