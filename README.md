@@ -3,7 +3,7 @@
 ## Comparison of Methods
 Here's a comparison table summarizing the strengths and weaknesses of each method:
 | Methods | Strengths | Weaknesses |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | Requests + BeautifulSoup | Simple and easy to use | Limited JavaScript support |
 | Selenium | Handles JavaScript-heavy sites, browser automation | Slower, requires WebDriver installation |
 | Scrapy | Powerful and scalable, built-in handling of requests and items | Steeper learning curve, more complex setup |
