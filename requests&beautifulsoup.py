@@ -61,20 +61,18 @@ try:
     # Convert to DataFrame
     df = pd.DataFrame(data)
 
-    # Step 5: Save to Excel
-    # df.to_excel('/home/apoorva/Web_Scraping_Programs/extracted_data.xlsx', index=False, engine='openpyxl')
+    # Step 5: Save to Excel, CSV & JSON
+    df.to_excel('/home/apoorva/Web_Scraping_Programs/requests&beautifulsoup_extracted_data.xlsx', index=False, engine='openpyxl')
 
-    # print("Data has been saved to 'extracted_data.xlsx'")
+    print("Data has been saved to 'requests&beautifulsoup_extracted_data.xlsx'")
 
-    # Step 5: Save to CSV
-    # df.to_csv('/home/apoorva/Web_Scraping_Programs/extracted_data.csv', index=False)
-    # df.to_csv('/home/apoorva/Web_Scraping_Programs/extracted_data.csv', index=False, header=False)
-    # df.to_csv('/home/apoorva/Web_Scraping_Programs/extracted_data.csv', columns=['Models', 'Details', 'Links'], index=False)
+    df.to_csv('/home/apoorva/Web_Scraping_Programs/requests&beautifulsoup_extracted_data.csv', index=False)
+    # df.to_csv('/home/apoorva/Web_Scraping_Programs/requests&beautifulsoup_extracted_data.csv', index=False, header=False)
+    # df.to_csv('/home/apoorva/Web_Scraping_Programs/requests&beautifulsoup_extracted_data.csv', columns=['Models', 'Details', 'Links'], index=False)
 
-    # print("Data has been saved to 'extracted_data.csv'")
+    print("Data has been saved to 'requests&beautifulsoup_extracted_data.csv'")
     
-    # Step 5: Save to JSON
-    json_file_path = '/home/apoorva/Web_Scraping_Programs/extracted_data.json'
+    json_file_path = '/home/apoorva/Web_Scraping_Programs/requests&beautifulsoup_extracted_data.json'
     df.to_json(json_file_path, orient='records', indent=4)
     # df.to_json(json_file_path, orient='columns', indent=4)
     # df.to_json(json_file_path, orient='split', indent=4)
