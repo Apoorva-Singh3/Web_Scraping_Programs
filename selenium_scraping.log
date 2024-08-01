@@ -18,3 +18,13 @@
 2024-08-01 17:39:29,126 - INFO - Get LATEST chromedriver version for google-chrome
 2024-08-01 17:39:29,295 - INFO - Driver [/home/apoorva/.wdm/drivers/chromedriver/linux64/127.0.6533.88/chromedriver-linux64/chromedriver] found in cache
 2024-08-01 17:39:35,301 - INFO - Data has been saved
+2024-08-01 18:13:58,998 - INFO - ====== WebDriver manager ======
+2024-08-01 18:13:59,229 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01 18:13:59,395 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01 18:13:59,535 - INFO - Driver [/home/apoorva/.wdm/drivers/chromedriver/linux64/127.0.6533.88/chromedriver-linux64/chromedriver] found in cache
+2024-08-01 18:14:13,706 - INFO - Data has been saved
+2024-08-01 18:16:28,956 - INFO - ====== WebDriver manager ======
+2024-08-01 18:16:29,004 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01 18:16:29,149 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01 18:16:29,312 - INFO - Driver [/home/apoorva/.wdm/drivers/chromedriver/linux64/127.0.6533.88/chromedriver-linux64/chromedriver] found in cache
+2024-08-01 18:16:36,409 - INFO - Data has been saved

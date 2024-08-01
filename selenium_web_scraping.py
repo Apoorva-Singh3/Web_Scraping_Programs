@@ -84,6 +84,8 @@ try:
     json_file_path = '/home/apoorva/Web_Scraping_Programs/selenium_extracted_data.json'
     df.to_json(json_file_path, orient='records', indent=4)
     
+    print("Data has been saved to 'requests&beautifulsoup_extracted_data.xlsx'")
+    print("Data has been saved to 'requests&beautifulsoup_extracted_data.csv'")
     print(f"Data has been saved to '{json_file_path}'")
     logging.info('Data has been saved')
     
