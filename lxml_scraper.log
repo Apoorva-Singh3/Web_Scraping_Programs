@@ -1,0 +1,5 @@
+2024-08-02 17:15:52,583 - INFO - Sending HTTP request to https://www.gsmarena.com/apple-phones-48.php
+2024-08-02 17:15:53,306 - INFO - Parsing HTML content
+2024-08-02 17:15:53,313 - INFO - Extracting data from the HTML content
+2024-08-02 17:15:53,318 - INFO - Extracted 50 models.
+2024-08-02 17:15:53,557 - INFO - Data has been saved to Excel, CSV, and JSON files.
